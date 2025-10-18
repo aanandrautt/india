@@ -23,7 +23,7 @@ repository               : "https://github.com/aanandrautt/india.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileAK.png"
   name             : "Anand Kumar"
   pronouns         : # example: "she/her"  
   bio              : "Engineer | Researcher | Avid Learner | Traveller "
