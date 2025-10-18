@@ -23,10 +23,10 @@ repository               : "https://github.com/aanandrautt/india.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AnandDp.png"
+  avatar           : "profile.png"
   name             : "Anand Kumar"
   pronouns         : # example: "she/her"  
-  bio              : "Engineer || Researcher || Avid Learner || Wanderlust"
+  bio              : "Engineer | Researcher | Avid Learner | Traveller "
   location         : "India"
   employer         : "IIT Jodhpur"
   uri              : # URL
